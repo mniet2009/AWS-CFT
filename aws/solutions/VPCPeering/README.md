@@ -19,7 +19,7 @@ deployed to:
   - AWS accounts authorized for VPC peering connections
   - Route Tables, to be updated to allow communications via VPC peering connection.
 
-This solution can be implemented as individual templates accordingly, or leveraging the nested stacks `main` templates.
+This solution can be implemented as an individual templates accordingly, or leveraging the nested stacks `main` templates.
 
 ## Notes
 
