@@ -20,7 +20,7 @@ Before you submit a template, we suggest that you follow these guidelines to hel
 - Remove secrets/credentials from your template. You might hardcode credentials or secrets in your template when you're testing. Don't forget to remove them before submitting your template. You can use this tool to help you scrub secrets: [https://github.com/awslabs/git-secrets](https://github.com/awslabs/git-secrets).
 - Add your template to the correct folder so that others can discover it. If your template demonstrates a particular service, add it to the Services folder. If it uses multiple services to address a particular use case, add it to the Solutions folder.
 
-When your template is ready,submit a pull request. A member of the AWS organization will review your request and might suggest changes. We review templates to check for general security issues, but we won't test or maintain them. If we don't get back to you within a week of your submission, use your pull request to send us a message.
+When your template is ready, submit a pull request. A member of the AWS organization will review your request and might suggest changes. We review templates to check for general security issues, but we won't test or maintain them. If we don't get back to you within a week of your submission, use your pull request to send us a message.
 
 ## Additional Resources
 In the *AWS CloudFormation User Guide*, you can view more information about the following topics:
